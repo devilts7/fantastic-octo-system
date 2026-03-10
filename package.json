@@ -1,0 +1,15 @@
+{
+  "name": "classroom-helper",
+  "version": "1.0.0",
+  "description": "Classroom helper tool",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
